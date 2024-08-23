@@ -1,0 +1,5 @@
+com/emi/cp3java/Cp3JavaApplication.class
+com/emi/cp3java/model/Brinquedo.class
+com/emi/cp3java/service/BrinquedoService.class
+com/emi/cp3java/repository/BrinquedoRepository.class
+com/emi/cp3java/controller/BrinquedoController.class
